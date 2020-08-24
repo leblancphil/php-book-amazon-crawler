@@ -14,13 +14,20 @@ If there is results, response code will be 200 and body:
 
 ```json
 [
-  {
-    id: 2455124,
-    name: "Some book name",
-    author: "Name Here",
-    aval: 4,3,
-    imageSrc: "http://somedestination/asasa1212.jpg"
-  }
+	{
+		"id": 2455124,
+		"name": "Some book name",
+		"author": "Name Here",
+		"aval": 4.3,
+		"imageSrc": "http://somedestination/asasa1212.jpg"
+	},
+	{
+		"id": 7312444896,
+		"name": "Some other name",
+		"author": "Other Here",
+		"aval": 2.0,
+		"imageSrc": "http://somedestination/1231s.jpg"
+	}
 ]
 ```
 
